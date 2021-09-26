@@ -1,0 +1,4 @@
+('linear_search_list_index - ', 0.17716370000000015)
+('linear_search_sentinel - ', 0.32811349999999995)
+('linear_search_for_loop - ', 0.41821030000000015)
+('linear_search_while - ', 0.4460496)
